@@ -15,4 +15,4 @@ python Clone.py
 
 # Overview
 
-<img src="./Mr.SxR.jpg" width="400" alt="">
+<img src="./Mr.SxR.jpg" width="450" alt="">
