@@ -8,6 +8,7 @@ cd Mr.SxR
 git pull
 python Clone.py
 ```
+# Fix error
 **If w5,w2,w1 comes up then update your python**
 
 ```
