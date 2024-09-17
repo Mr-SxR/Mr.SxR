@@ -8,7 +8,7 @@ cd Mr.SxR
 git pull
 python Clone.py
 ```
-**If w4,w3 comes then contact tool owner**
+**If any errors or problems occur while running the tool, you can contact the admins and moderators**
 # Contact
 
 - **Facebook**: [Masudur Rahman Sifat](https://www.facebook.com/sxr.404)
